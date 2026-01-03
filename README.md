@@ -1,6 +1,3 @@
-Here’s a polished **GitHub project description** you can use for your repository. It highlights the purpose, methods, and results in a clear and professional way:
-
----
 
 # 🐾 Animal Image Classification Project
 
